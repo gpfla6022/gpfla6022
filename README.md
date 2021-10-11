@@ -6,3 +6,8 @@
 
 ### About me
 - 🌱 I’m currently learning about backend develop! please freely contact me!
+
+### Skills
+- Java
+- Spring 
+- JPA
