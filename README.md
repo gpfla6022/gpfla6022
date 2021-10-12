@@ -10,4 +10,8 @@
 ### Skills
 - Java
 - Spring 
+- Spring Boot
 - JPA
+- Thymleaf
+- MySQL
+- Spring Security
