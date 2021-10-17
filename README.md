@@ -5,7 +5,7 @@
   </div>
 
 ### About me
-- 🌱 I’m currently learning about backend develop! please freely contact me!
+- 🌱 I’m a junior backend developer! please freely contact me!
 
 ### Skills
 - Java
