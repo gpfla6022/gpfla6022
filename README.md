@@ -15,3 +15,4 @@
 - Thymleaf
 - MySQL
 - Spring Security
+- REST API
