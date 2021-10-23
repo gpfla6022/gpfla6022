@@ -8,7 +8,7 @@
 - 🌱 I’m a junior backend developer! please freely contact me!
 
 ### Skills
-- Java
+- Java 
 - Spring 
 - Spring Boot
 - JPA
@@ -16,3 +16,4 @@
 - MySQL
 - Spring Security
 - REST API
+- ETC
