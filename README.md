@@ -11,10 +11,10 @@
 - Java 
 - Spring 
 - Spring Boot
-- JPA
+- Spring Data JPA
+- Spring Security
 - Thymleaf
 - MySQL
-- Spring Security
 - REST API
 - ETC
 
