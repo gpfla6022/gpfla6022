@@ -21,7 +21,7 @@
 
 <!--
 Team-Velpe
- - PPTOR
+ - PPTOR, 온라인 ppt 마크다운 서비스
 
 개인 프로젝트 
   - yoon's Farm
