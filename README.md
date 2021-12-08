@@ -25,4 +25,10 @@ Team-Velpe
 
 개인 프로젝트 
   - yoon's Farm
+
+공부해야하는 언어
+- C언어
+- 파이썬
+- JSP
+- HTML/CSS/Javascript
 -->
