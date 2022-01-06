@@ -32,4 +32,8 @@ Team-Velpe
 - 파이썬
 - JSP
 - HTML/CSS/Javascript
+
+학원 
+- 웹 프로젝트
+- DB
 -->
