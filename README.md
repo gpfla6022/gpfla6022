@@ -30,6 +30,7 @@ Team-Velpe
 공부해야하는 언어
 - C언어
 - 파이썬
+- 장고
 - JSP
 - HTML/CSS/Javascript
 
