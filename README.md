@@ -4,9 +4,6 @@
 
   </div>
 
-### About me
-- 🌱 I’m a junior backend developer! please freely contact me!
-
 ### Skills
 - Java 
 - Spring 
@@ -17,7 +14,7 @@
 - MySQL
 - REST API
 - ETC
-
+<!-- python -->
 
 <!--
 Team-Velpe
