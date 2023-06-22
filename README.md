@@ -13,6 +13,8 @@
 - Thymleaf
 - MySQL
 - REST API
+- python
+- dgango
 - ETC
 <!-- python -->
 
